@@ -3,12 +3,12 @@ This login page features a simple and responsive user interface for authenticati
 # How to Run this Project
 **Clone the repository**  
   1. Open your terminal/command prompt and run the following command:
-   ```sh
+
    git clone https://github.com/Vaishnav3010/login-page.git
 
   2. Open the index.html file in a browser of your choice.
 
-### Prerequisites
+ **Prerequisites**
 - A web browser (Chrome, Firefox, Safari, etc.).
 - Internet connection to access the API.
 
