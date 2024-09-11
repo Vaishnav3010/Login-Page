@@ -13,4 +13,4 @@ This login page features a simple and responsive user interface for authenticati
 - Internet connection to access the API.
 
 ## Live Demo
-Check out the live demo here: [Login Page Live Demo](https://Vaishnav3010.github.io/front-end-development-assignment/index.html)
+Check out the live demo here: [Login Page Live Demo][(https://Vaishnav3010.github.io/front-end-development-assignment/index.html)](https://github.com/Vaishnav3010/Login-Page/tree/main/Front-End%20Development%20Assignment)
